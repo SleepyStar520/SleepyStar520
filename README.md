@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SleepyStar520/SleepyStar520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
